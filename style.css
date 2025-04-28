@@ -30,9 +30,9 @@ header nav {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 1vh;
-    width: 29vw;
-    transform: translateY(5vh) translateX(-4vw) scale(2);
+    height: 6vh;
+    width: 40vw;
+    transform: translateY(5vh) translateX(-4vw) scale(4);
 
 }
 
