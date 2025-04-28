@@ -32,7 +32,7 @@ header nav {
     justify-content: center;
     height: 1vh;
     width: 29vw;
-    transform: translateY(5vh) translateX(-4vw);
+    transform: translateY(5vh) translateX(-4vw) scale(2);
 
 }
 
