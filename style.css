@@ -30,16 +30,12 @@ header nav {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 2vh;
-    width: 10vw;
-    transform: translateY(5vh) translateX(-4vw) scale(1.05);
-
-}
-
-.local-flix{
-    width: 10vw;
     height: 1vh;
+    width: 5vw;
+    transform: translateY(5vh) translateX(-4vw) ;
+
 }
+
 
 @media only screen and (max-width: 645px){
     .right{
